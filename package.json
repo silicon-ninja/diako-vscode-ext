@@ -2,7 +2,13 @@
   "name": "diako",
 	"displayName": "Diako",
 	"description": "A git profile switcher to switch profiles.",
+	"publisher": "SrikanthKandarp",
 	"version": "0.0.1",
+	"icon": "images/diako-vscode.png",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:silicon-ninja/diako-vscode-ext.git"
+	  },
 	"engines": {
 		"vscode": "^1.69.0"
 	},
@@ -13,10 +19,7 @@
 		  "email": "srikanthkandarp23@gmail.com"
 		}
 	  ],
-	  "repository": {
-		"type": "git",
-		"url": "git@github.com:silicon-ninja/diako-vscode-ext.git"
-	  },
+
 	"categories": [
 		"Other"
 	],
